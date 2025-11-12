@@ -1,4 +1,6 @@
 <?php
+// pertemuan6
+
 
 namespace App\Math;
 
